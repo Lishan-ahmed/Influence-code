@@ -59,3 +59,109 @@
 .main-camera{
     background-image: url(images/Circle\ design.svg);
 }
+
+    /* website portal */
+.website{
+    display: flex;
+    gap: 30px;
+    margin: 120px;
+    padding-left: 160px;
+}
+
+        /* photo-section */
+
+.photo-header{
+    text-align: center;
+    color: #3A3A3A;
+    font-family: Poppins;
+    font-size: 28px;
+    font-weight: 600;
+}
+.photo-info{
+    display: flex;
+    gap: 10px;
+    margin-left: 150px;
+    margin-right: 150px;
+    border-radius: 5px;
+    
+}
+
+.photo-content{
+   background-color: white;
+    text-align: center;
+    padding: 10px;
+    border-radius: 5px;
+    background: #FFF;
+    box-shadow: 0px 0px 40px 0px rgba(0, 0, 0, 0.15);
+  
+}
+.text-container{
+    text-align: left;
+}
+
+
+/* others section */
+
+.others-container{
+    display: flex;
+    align-items: center;
+    margin-left: 160px;
+    margin-top: 170px;
+   
+}
+.other-content{
+    margin-left: 200px;
+}
+.other-head{
+    color: #0A0826;
+    font-family: Poppins;
+    font-size: 38px;
+    font-weight: 700;
+    line-height: 60px; 
+}
+.other-para{
+    color: #6C6C6C;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 28px; 
+}
+.btn-2{
+    background: #E02C6D;
+    padding: 10px 24px;
+    gap: 8px;
+    border: 0;
+
+}
+
+/* footer section */
+
+.footer-container{
+    text-align: center;
+    background-color: #0A0826;
+    margin-top: 50px;
+    width: 1540px;
+    height: 239px;
+
+}
+
+.footer-info{
+    padding-top: 50px;
+}
+
+
+.footer-head{
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 700;
+
+}
+
+.footer-para{
+    color: #D9DBE1;
+    font-family: Manrope;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px; 
+}
