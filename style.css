@@ -1,0 +1,61 @@
+ /* shared style */
+
+
+.header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 96px;
+}
+.header-head{
+    width: 243px;
+    height: 52.2px;
+    color: #3A3A3A;
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 700;
+}
+.header-info{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    color: #3A3A3A;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 600;
+}
+.main-container{
+    display: flex;
+    justify-content: space-between;
+
+}
+.main-head{
+    width: 582px;
+    height: 133px;
+    color: #3A3A3A;
+    font-family: Poppins;
+    font-size: 52px;
+    font-weight: 700;
+    line-height: 70px;
+}
+.main-para{
+    width: 505px;
+    height: 60.9px;
+    color: #3A3A3A;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 600;
+}
+.btn{
+    border-radius: 41px;
+    background: #E02C6D;
+    border: 0;
+    padding: 10px 24px;
+}
+.main-info{
+    margin-left: 120px;
+}
+
+.main-camera{
+    background-image: url(images/Circle\ design.svg);
+}
